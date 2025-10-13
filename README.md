@@ -1,23 +1,29 @@
-# Christian Rukundo 👋
+<h1 align="center"> 👋 Hey, I’m Christian Rukundo</h1>
+
+
+<a href="https://github.com/ChristianRukundo"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20and%20Mobile%20Expert;5%2B%20years%20of%20rich%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 
 
 ---
 
-## 👌 Senior Software Developer & Full-Stack Engineer
 
-I am a highly motivated Senior Software Developer with over 5 years of equivalent experience in designing, building, and maintaining robust, full-stack digital platforms. My passion lies in leveraging technology to create high-impact, user-centered solutions that drive data-driven decision-making. I have proven experience architecting scalable web and mobile applications, developing real-time administrative dashboards, and automating complex data workflows.
-
-I specialize in building end-to-end, type-safe applications using technologies like **Next.js**, **tRPC**, **TypeScript**, and **Prisma**. I am also an experienced **MERN stack** developer and have a strong background in mobile development with **React Native** and **Flutter**.
+<blockquote align="center">
+  I build things that (hopefully) make sense and don’t break on production 😅 
+</blockquote>
 
 ---
 
-##  My Core Competencies & What I Do
+<h2>🙋‍♂️ About Me</h2>
 
--   **Full-Stack Development:** Architecting and continuously improving scalable, secure web and mobile applications using modern frameworks.
--   **Data Automation:** Automating data workflows, building scheduled reporting, and syncing data across platforms like Firebase and GCP.
--   **Real-Time Dashboards:** Designing and deploying real-time admin dashboards to consolidate and visualize performance data for key stakeholders.
--   **API Development:** Building robust, well-documented RESTful and tRPC APIs for efficient data management and integration.
--   **UI/UX:** Crafting intuitive, responsive, and user-friendly interfaces.
+<p>
+Hey! I’m <b>Christian</b> — a passionate software dev who enjoys building clean, functional, and kinda beautiful apps.  
+I’ve been working with code for a few years now (feels like forever some days), and I still get that small rush when something finally works.  
+</p>
+
+<p>
+I love working across the stack — backend, frontend, and the weird middle stuff that connects them.  
+Right now, I’m focused on <b>Next.js</b>, <b>TypeScript</b>, <b>Prisma</b>, and a bit of <b>Flutter</b> for mobile.  
+</p>
 
 ---
 
