@@ -16,7 +16,7 @@
 <h2>🙋‍♂️ About Me</h2>
 
 <p>
-Hey! I’m <b>Christian</b> — a passionate software dev who enjoys building clean, functional, and kinda beautiful apps.  
+Hey! I’m <b>Christian Rukundo</b> — a passionate software dev who enjoys building clean, functional, and kinda beautiful apps.  
 I’ve been working with code for a few years now (feels like forever some days), and I still get that small rush when something finally works.  
 </p>
 
